@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Analog Input.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Analog Input.SchDoc|FileName=Analog Output.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Analog Input.SchDoc|FileName=Board Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Analog Input.SchDoc|FileName=Master Control.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Analog Input.SchDoc|FileName=MCU IOs.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Analog Input.SchDoc|FileName=MCU Power.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Analog Input.SchDoc|FileName=Preset Selection.SchDoc|SheetNumber=4
