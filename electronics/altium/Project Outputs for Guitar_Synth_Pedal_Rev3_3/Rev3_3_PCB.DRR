@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Rev3_3_PCB.PcbDoc   4/08/2026  7:42:14 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Rev3_3_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Rev3_3_PCB-SlotHoles.TXT
+ASCII RectHoles File : Rev3_3_PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             113       PTH        586.82mm (23.10inch)
+T2      0.762mm (30mil)                                           Round             10        PTH        167.96mm (6.61inch)
+T3      0.9mm (35mil)                                             Round             2         PTH        2.54mm (0.10inch)
+T4      1mm (39mil)                                               Round             3         PTH        5.00mm (0.20inch)
+T5      1mm (39mil)                                               Slot              2         PTH        33.80mm (1.33inch)
+T6      1.2mm (47mil)                                             Round             6         PTH        15.24mm (0.60inch)
+T7      1.3mm (51mil)                                             Round             12        PTH        138.10mm (5.44inch)
+T8      1.33mm (52mil)                                            Round             11        PTH        62.25mm (2.45inch)
+T9      1.34mm (53mil)                                            Round             2         PTH        15.00mm (0.59inch)
+T10     1.4mm (55mil)                                             Round             2         PTH        4.00mm (0.16inch)
+T11     1.8mm (71mil)                                             Rectangle         2         PTH        18.41mm (0.72inch)
+T12     0.6mm (24mil)                                             Round             24        NPTH       113.32mm (4.46inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              189
+
+Total Processing Time (hh:mm:ss) : 00:00:00

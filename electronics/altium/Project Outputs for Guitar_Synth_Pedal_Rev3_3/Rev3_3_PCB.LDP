@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\chinc\Guitar Synthesizer Pedal\Guitar_Synth_Pedal_Rev3.3\Rev3_3_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rev3_3_pcb-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rev3_3_pcb-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=rev3_3_pcb-rectholes.txt|DrillLayers=gtl,gp1,gp2,gbl
