@@ -8,7 +8,7 @@ This repo is a work in progress. More detail, source files and demo videos will 
 
 This board was sponsored by [PCBWay](https://www.pcbway.com). PCBWay has been great to work with, and their board quality and customer service is excellent. Their engineers also caught a mistake on my board where the pad spacing on the analog IC switch footprint was below their fabrication tolerance, and gave me the chance to fix it before the board was fabricated.
 
-
+I am very thankful that PCBWay has supported this project, and I highly recommend their services to anyone who is thinking about making their own PCB.
 
 
 ## What the pedal does
