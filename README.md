@@ -39,3 +39,15 @@ After the gain stage, the signal passes through a 4th-order low-pass Butterworth
 The STM32H7's 16-bit ADC is used to sample the filtered signal, with 4x oversampling used to sample at 192kHz. The effective number of bits from the ADC are more than enough for the YIN pitch detection algorithm to work reliably, which is why an external ADC was not used.
 
 **Pitch detection**
+The YIN pitch detection algorithm is used to estimate pitch with less than 20ms of latency. This is a time domain pitch detection algorithm and I explain this further in the [Pitch Detection](#pitch-detection) section below.
+
+**Synth generation**
+The STM32H7 generates the waveforms for synthesizer output based on the detected pitch. This means the raw guitar signal has no effect on the output, aside from its pitch.
+
+**DAC**
+The synth generator's output goes to an external PCM5101A. This DAC is 24-bit and was chosen over the STM32H7's internal 12-bit DAC due to audio quality concerns.
+
+**Presets and sustain**
+A 12-position rotary switch is used to choose synth presets, with each throw of the switch mapped to a GPIO pin. A second footswitch is used to activate a sustain mode.
+
+## Hardware revision history
